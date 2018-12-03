@@ -1,0 +1,240 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Set every element's box-sizing to border-box */
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Bangers', cursive;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+}
+
+/* Your code starts here! */
+
+
+/*section1 */
+
+
+section {
+    width: 100%
+}
+
+.sectionone{
+    width: 100%
+}
+
+h1  {
+    
+    font-size: 60px;
+    text-align:center;
+
+    }
+
+header {
+    
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+
+a   {
+
+    text-decoration: none; 
+    color: blue;
+    margin: 50px;
+}
+
+
+nav {
+    
+    position: relative;
+    padding: 30px;
+    margin-left: 10px;
+}
+ 
+
+.logo {
+    
+    position: absolute;
+    right: 40px;
+    top: 20px;
+}
+
+
+
+/*section two..*/
+
+
+
+.sectiontwo{
+    position: relative;
+    width: 100%;
+    text-align: center;
+     padding-bottom: 0px;
+}
+.boxone{
+
+    display: inline-block;
+     vertical-align: top;
+    padding-top: 130px
+    
+}
+
+.boxtwo{
+    display: inline-block;
+    padding: 30px;
+}
+
+.button {
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: #4CAF50;
+}
+
+
+
+/*section three*/
+
+
+.sectionthree{
+   position: relative;
+    width: 100%;
+    text-align: center;
+     padding-bottom: 0px;  
+}
+
+.Features{
+ display: inline-block;
+  text-align: left; 
+  padding: 20px;  
+  width: 30%  
+}
+
+.About{
+
+    display: inline-block;
+    text-align: left; 
+    padding: 20px;
+    width: 30%
+}
+
+
+/*section four */
+
+.sectionfour{
+
+
+    display: inline-block;;
+    text-align: center;
+    width: 100%
+
+}
+
+/*section five */
+
+.sectionfive{
+
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 0px;
+
+}
+
+.Services{
+    display: inline-block;
+  text-align: left; 
+  padding: 10px;  
+  width: 30%  
+
+}
+.Product{
+
+    display: inline-block;
+  text-align: left; 
+  padding: 10px;  
+  width: 30%  
+}
+.Vision{
+    display: inline-block;
+  text-align: left; 
+  padding: 10px;  
+  width: 30%  
+}
+
+footer {
+    display: inline-block;
+    width: 100%;
+}
+
+.Information{
+
+    width: 100%;
+    margin-left: 65px;
+    margin-top: 20px;
+    padding-bottom: 25px;
+    text-align: left;
+}
+
+.Copyright{
+
+    text-align: center;
+    margin-top: 
+}
