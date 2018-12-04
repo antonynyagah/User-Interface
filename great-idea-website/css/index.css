@@ -64,3 +64,177 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+/*section1 */
+
+
+section {
+    width: 100%
+}
+
+.sectionone{
+    width: 100%
+}
+
+h1  {
+    
+    font-size: 60px;
+    text-align:center;
+
+    }
+
+header {
+    
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+
+a   {
+
+    text-decoration: none; 
+    color: blue;
+    margin: 50px;
+}
+
+
+nav {
+    
+    position: relative;
+    padding: 30px;
+    margin-left: 10px;
+}
+ 
+
+.logo {
+    
+    position: absolute;
+    right: 40px;
+    top: 20px;
+}
+
+
+
+/*section two..*/
+
+
+
+.sectiontwo{
+    position: relative;
+    width: 100%;
+    text-align: center;
+     padding-bottom: 0px;
+}
+.boxone{
+
+    display: inline-block;
+     vertical-align: top;
+    padding-top: 130px
+    
+}
+
+.boxtwo{
+    display: inline-block;
+    padding: 30px;
+}
+
+.button {
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 5px;
+    background-color: #4CAF50;
+}
+
+
+
+/*section three*/
+
+
+.sectionthree{
+   position: relative;
+    width: 100%;
+    text-align: center;
+     padding-bottom: 0px;  
+}
+
+.Features{
+ display: inline-block;
+  text-align: left; 
+  padding: 20px;  
+  width: 30%  
+}
+
+.About{
+
+    display: inline-block;
+    text-align: left; 
+    padding: 20px;
+    width: 30%
+}
+
+
+/*section four */
+
+.sectionfour{
+
+
+    display: inline-block;;
+    text-align: center;
+    width: 100%
+
+}
+
+/*section five */
+
+.sectionfive{
+
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 0px;
+
+}
+
+.Services{
+    display: inline-block;
+  text-align: left; 
+  padding: 10px;  
+  width: 30%  
+
+}
+.Product{
+
+    display: inline-block;
+  text-align: left; 
+  padding: 10px;  
+  width: 30%  
+}
+.Vision{
+    display: inline-block;
+  text-align: left; 
+  padding: 10px;  
+  width: 30%  
+}
+
+footer {
+    display: inline-block;
+    width: 100%;
+}
+
+.Information{
+
+    width: 100%;
+    margin-left: 65px;
+    margin-top: 20px;
+    padding-bottom: 25px;
+    text-align: left;
+}
+
+.Copyright{
+
+    text-align: center;
+    margin-top: 
+}
